@@ -1,2 +1,2 @@
-# Tips-Calculator
+# Tips-Calculator-C
 Tips Calculator 
